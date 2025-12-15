@@ -1,0 +1,56 @@
+main {
+    background-color: beige;
+    margin: auto;
+    align-self: center;
+    width: 100%;
+    max-width: 800px;
+
+}
+
+body {
+    background-color: aliceblue;
+    width: 800px;
+    margin: 0 auto;
+    line-height: 1.6;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+header {
+    background-color: beige;
+    text-align: center;
+    height: 200px;
+    padding: 6px;
+    border-bottom: 2px solid #333;
+    font-size: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.about-us {
+    background-color: azure;
+    font-size: 16px;
+    border: 3px solid #333;
+    padding: 13px;
+    width: auto;
+
+}
+
+.our-mission {
+    background-color: azure;
+    font-size: 16px;
+    border: 3px solid #333;
+    padding: 13px;
+    width: auto;
+
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    margin: 13px;
+    position: relative;
+    width: auto;
+    font-size: 14px;
+
+}
